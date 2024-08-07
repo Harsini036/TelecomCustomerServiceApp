@@ -3,7 +3,7 @@ This application is designed to enhance customer service operations in the telec
 
 ## Role-based Authentication: 
 Secure access for different user roles.
-## bCustomer Query Handling: 
+## Customer Query Handling: 
 Customers can raise queries and track their status.
 ## Ticket Assignment: 
 Automated assignment of tickets to representatives.
