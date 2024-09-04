@@ -11,7 +11,7 @@ public class CustomerApplication {
 	public static final Logger logger = LoggerFactory.getLogger(CustomerApplication.class);
 
 	public static void main(String[] args) {
-		logger.info("\n\n\nStarting Customer Application made new changes\n\n\n")
+		logger.info("\n\n\nStarting Customer Application made new changes\n\n\n");
 		SpringApplication.run(CustomerApplication.class, args);
 	}
 
